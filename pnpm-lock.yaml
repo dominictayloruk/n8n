@@ -261,8 +261,8 @@ importers:
         specifier: ^1.4.6
         version: 1.4.6
       crypto-js:
-        specifier: ~4.1.1
-        version: 4.1.1
+        specifier: ~4.2.0
+        version: 4.2.0
       csrf:
         specifier: ^3.1.0
         version: 3.1.0
@@ -586,8 +586,8 @@ importers:
         specifier: ~1.7.2
         version: 1.7.2
       crypto-js:
-        specifier: ~4.1.1
-        version: 4.1.1
+        specifier: ~4.2.0
+        version: 4.2.0
       fast-glob:
         specifier: ^3.2.5
         version: 3.2.12
@@ -1314,8 +1314,8 @@ importers:
         specifier: 0.15.2
         version: 0.15.2
       crypto-js:
-        specifier: ^4.1.1
-        version: 4.1.1
+        specifier: ^4.2.0
+        version: 4.2.0
       deep-equal:
         specifier: ^2.2.0
         version: 2.2.0
@@ -4688,7 +4688,7 @@ packages:
     resolution: {integrity: sha512-N4yBzgNIRrQlhy+BWyEC9cbf86asPxryWbJpmrfeaqkFpBR6Z5yIqmWRGnLs7XKVC9se8cdWlF7EWKtaH6oDPA==}
     engines: {node: '>=14.0.0', npm: '>=7.10.0'}
     dependencies:
-      crypto-js: 4.1.1
+      crypto-js: 4.2.0
       node-machine-id: 1.1.12
       node-rsa: 1.1.1
       undici: 5.21.0
@@ -6822,7 +6822,7 @@ packages:
       ts-dedent: 2.2.0
       type-fest: 3.13.1
       vue: 3.3.4
-      vue-component-type-helpers: 1.8.15
+      vue-component-type-helpers: 1.8.21
     transitivePeerDependencies:
       - encoding
       - supports-color
@@ -10538,8 +10538,8 @@ packages:
     resolution: {integrity: sha512-mCxBlsHFYh9C+HVpiEacem8FEBnMXgU9gy4zmNC+SXAZNB/1idgp/aulFJ4FgCi7GPEVbfyng092GqL2k2rmow==}
     dev: false
 
-  /crypto-js@4.1.1:
-    resolution: {integrity: sha512-o2JlM7ydqd3Qk9CA0L4NL6mTzU2sdx96a+oOfPu8Mkl/PK51vSyoi8/rQ8NknZtk44vq15lmhAj9CIAGwgeWKw==}
+  /crypto-js@4.2.0:
+    resolution: {integrity: sha512-KALDyEYgpY+Rlob/iriUtjV6d5Eq+Y191A5g4UqLAi8CyGP9N1+FdVbkc1SxKc2r4YAYqG8JzO2KGL+AizD70Q==}
     dev: false
 
   /crypto-random-string@2.0.0:
@@ -17849,7 +17849,7 @@ packages:
   /pkce-challenge@3.0.0(patch_hash=dypouzb3lve7vncq25i5fuanki):
     resolution: {integrity: sha512-sQ8sJJJuLhA5pFnoxayMCrFnBMNj7DDpa+TWxOXl4B24oXHlVSADi/3Bowm66QuzWkBuF6DhmaelCdlC2JKwsg==}
     dependencies:
-      crypto-js: 4.1.1
+      crypto-js: 4.2.0
     dev: false
     patched: true
 
@@ -21801,8 +21801,8 @@ packages:
       vue: 3.3.4
     dev: false
 
-  /vue-component-type-helpers@1.8.15:
-    resolution: {integrity: sha512-RKiPRKW4BdwgmQ9vaNkHYKAThdTbgU4TOphVyyzqxRwsOJOoRIrb+vB49XLvs5CKPNrvxMXZMwPe5FyJCqFWyg==}
+  /vue-component-type-helpers@1.8.21:
+    resolution: {integrity: sha512-XL37QbmiqqbKrAFHPxqryMXpNgO0KMKd5bIo7LO9QABPMNEysd8xmYRIjwZhh0t2abveXjAJ//ZcAzwdxp/S3Q==}
     dev: true
 
   /vue-component-type-helpers@1.8.4:
